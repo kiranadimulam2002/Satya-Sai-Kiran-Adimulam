@@ -49,9 +49,10 @@
 ![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimulamkiran2&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimulamkiran2&layout=compact&theme=tokyonight)
 
-📫 Let's Connect
+## 📫 Let's Connect
 
-📧 Email: adimulamkiran2@gmail.com  
-💼 LinkedIn: [linkedin.com/in/adimulamkiran2](https://linkedin.com/in/adimulamkiran2)
+- 📧 Email: [adimulamkiran2@gmail.com](mailto:adimulamkiran2@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/adimulamkiran2](https://linkedin.com/in/adimulamkiran2)
 
-Learning never exhausts the mind.” – Leonardo da Vinci
+
+"Learning never exhausts the mind." – Leonardo da Vinci
