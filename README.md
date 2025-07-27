@@ -44,15 +44,10 @@
 
 ---
 
-📈 GitHub Stats
-
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimulamkiran2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimulamkiran2&layout=compact&theme=tokyonight)
-
 ## 📫 Let's Connect
 
 - 📧 Email: [adimulamkiran2@gmail.com](mailto:adimulamkiran2@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/adimulamkiran2](https://linkedin.com/in/adimulamkiran2)
+- 💼 LinkedIn: [linkedin.com/in/adimulamkiran2](https://www.linkedin.com/in/satya-sai-kiran-adimulam-390623255/)
 
 
 "Learning never exhausts the mind." – Leonardo da Vinci
